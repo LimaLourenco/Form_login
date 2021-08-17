@@ -42,13 +42,13 @@ button {
 }
 
 input.email {
-    background-image: url(/assets/images/icone-usuario.png);
+    background-image: url(./assets/images/icone-usuario.png);
     background-repeat: no-repeat;
     background-position: 10px;
 }
 
 input.senha {
-    background-image: url(/assets/images/icone-cadeado.png);
+    background-image: url(./assets/images/icone-cadeado.png);
     background-repeat: no-repeat;
     background-position: 10px;
 }
